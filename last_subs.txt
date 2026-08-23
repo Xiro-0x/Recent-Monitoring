@@ -14,8 +14,6 @@ ambassador.k.wolt.com
 analytics-api-master.wolt.com
 analytics.consumer-events.wolt.com
 analytics.converse-rtm-ps.wolt.com
-api.internal.k8s.wolt.com
-api.k8s.wolt.com
 api.wolt.com
 app.consumer-user.wolt.com
 app.converse-telemetry-api.wolt.com
