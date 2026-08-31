@@ -30,7 +30,6 @@ api.cs.uat.sf.aws.bose.com
 api.dev.bose.com
 api.dev.integration.bose.com
 api.devint.bose.com
-api.devint.integration.bose.com
 api.intdevrow.bose.com
 api.integration.bose.com
 api.perf.bose.com
@@ -50,7 +49,6 @@ apsgplmwcrepqa1.bose.com
 apsh-asdwc01.bose.com
 apsh-asdwc05.bose.com
 apsz-pulsedn01.bose.com
-apsz-winch01.bose.com
 apsz-winch02.bose.com
 apsz-winch03.bose.com
 ar.bose.com
@@ -99,7 +97,6 @@ blog.aws.bose.com
 blog.click.email.bose.com
 bmail.bose.com
 bodev.bose.com
-boreports.bose.com
 bose-au.row.dev.bosexx.sf.aws.bose.com
 bose-au.row.dev.bosexx.sf.aws.bose.com.dev.bosexx.sf.aws.bose.com
 bose-ca.cs.dev.sf.aws.bose.com
@@ -135,12 +132,10 @@ bose.com
 bosearapps.bose.com
 bosecorp-drdweb.bose.com
 bosedevs.bose.com
-boseeurds.bose.com
 bosemail.bose.com
 bosemx01.bose.com
 bosemx02.bose.com
 bosemx03.bose.com
-boseszwc01.bose.com
 bosmai8-beta.fortis.bose.com
 brand.bose.com
 btu.bose.com
@@ -182,8 +177,6 @@ click.service.bose.com
 cloud-tools-dev.bose.com
 cloud-tools.bose.com
 cloud.email.bose.com
-cnshasdwc02.bose.com
-cnshasdwc04.bose.com
 codeload.usva-gheprod01.bose.com
 codeload.usva-ghestg01.bose.com
 collab-edge.bose.com
@@ -193,10 +186,6 @@ community.experiences.bose.com
 community2.bose.com
 communitystage.bose.com
 communitytest.bose.com
-compancewww.bose.com
-complacingww.bose.com
-complagewww.bose.com
-compliancewww.bose.com
 confluence-gd.bose.com
 confluence.bose.com
 confluence.cloud.bose.com
@@ -274,14 +263,12 @@ ec2amaz-04ommj3.bose.com
 eccqat.bose.com
 eclddev.bose.com
 ecldprod.bose.com
-eco2artifactory.bose.com
 eco2jenkins.bose.com
 ejpweb.bose.com
 elb.tagging-eu-preview.qa.bosexx.sf.aws.bose.com
 elb.tagging-eu.qa.bosexx.sf.aws.bose.com
 elb.tagging-preview.qa.bosexx.sf.aws.bose.com
 elb.tagging.qa.bosexx.sf.aws.bose.com
-elb.taggingpreview.bose.com
 electricflow.bose.com
 electricflowdev.bose.com
 em.bose.com
@@ -320,7 +307,6 @@ external.ops.gds.bose.com
 external.prod.gds.bose.com
 external.sbx.gds.bose.com
 external.stage.gds.bose.com
-featuremap.bose.com
 fecr.bose.com
 feedback.bose.com
 fenestra-dev.fortis.bose.com
@@ -333,7 +319,6 @@ forum.assets.bose.com
 fr.dev.perf.bosexx.sf.aws.bose.com
 fr.prod.perf.bosexx.sf.aws.bose.com
 fr.staging.perf.bosexx.sf.aws.bose.com
-frpw1.bose.com
 ftp.fortis.bose.com
 gateway.email.bose.com
 gcp.aws.bose.com
@@ -401,7 +386,6 @@ imap.fortis.bose.com
 imi-ocaogakiml01.bose.com
 immersive-audio-demo.bose.com
 int.b2c.aws.bose.com
-integrity.bose.com
 integritydev.bose.com
 interactivehouse.bose.com
 internal-chef.fortis.bose.com
@@ -455,7 +439,6 @@ jp.dev.perf.bosexx.sf.aws.bose.com
 jp.prod.perf.bosexx.sf.aws.bose.com
 jp.staging.perf.bosexx.sf.aws.bose.com
 jss.bose.com
-k8-d.bose.com
 k8dev.bose.com
 k8s.click.email.bose.com
 kasean.bose.com
@@ -538,7 +521,6 @@ musiciansupport.bose.com
 mxtj-ise-psn01.bose.com
 mxtj-pulsedn01.bose.com
 mxtjmfgnv01.bose.com
-mxtjmfgnv02.bose.com
 mxtjmfgnv03.bose.com
 mxtjmfgrad01-mgmt.bose.com
 mxtjwdprod.bose.com
@@ -587,7 +569,6 @@ openid.bose.com
 ops-003-author.bose.com
 ops.gds.bose.com
 order.confirmations.bose.com
-origin-marge.bose.com
 origin-products.bose.com
 origin-streaming.bose.com
 origin-worldwide.bose.com
@@ -756,7 +737,6 @@ sapt3pqa.bose.com
 sapweb.bose.com
 sbc01.bose.com
 sbx.gds.bose.com
-secure-serviceops.bose.com
 secure-www2.bose.com
 secure.bose.com
 service.bose.com
@@ -798,7 +778,6 @@ staging-b2c-support.bose.com
 staging-b2c.bose.com
 staging-normani.bose.com
 staging.pinpoint.bose.com
-standards.bose.com
 stargate.bose.com
 static.aad.dev.b2c.aws.bose.com
 static.aad.prod.b2c.aws.bose.com
@@ -895,7 +874,6 @@ updater-dev090718.fortis.bose.com
 updates.bose.com
 uploads.usva-gheprod01.bose.com
 uploads.usva-ghestg01.bose.com
-us-dc-cpm-vip.bose.com
 us.dev.perf.bosexx.sf.aws.bose.com
 us.prod.perf.bosexx.sf.aws.bose.com
 us.staging.perf.bosexx.sf.aws.bose.com
@@ -931,7 +909,6 @@ usma-ise-psn03.bose.com
 usma-mm-wcl1.bose.com
 usma-mm-wcl2.bose.com
 usma-mm-wlc-vrrp.bose.com
-usmacoveo.bose.com
 usmada1.bose.com
 usmada2.bose.com
 usmaexcas.bose.com
@@ -988,7 +965,6 @@ usvabiqci.bose.com
 usvabosandbox.bose.com
 usvacijenkins.bose.com
 usvaconfpoststg.bose.com
-usvacoveo02.bose.com
 usvacoveotest.bose.com
 usvacrmaci.bose.com
 usvacrmpap1.bose.com
@@ -1022,7 +998,6 @@ usvaeccqmock.bose.com
 usvaecflwdev.bose.com
 usvaecflwprod.bose.com
 usvaeco2jenkins.bose.com
-usvaefwebhook1.bose.com
 usvaepqci.bose.com
 usvaex01.bose.com
 usvaex02.bose.com
@@ -1054,7 +1029,6 @@ usvajirapoststg.bose.com
 usvakibana.bose.com
 usvakwprod.bose.com
 usvakwstage.bose.com
-usvalivecompare.bose.com
 usvametatracker.bose.com
 usvanetbrainapp.bose.com
 usvanginxproxy.bose.com
@@ -1118,7 +1092,6 @@ usvaplmwcapreg3.bose.com
 usvaplmwcapreg4.bose.com
 usvaplmwcapreg5.bose.com
 usvaplmwcaprep1.bose.com
-usvaplmwcpostapm.bose.com
 usvaplmwcrepami.bose.com
 usvaplotlyprod.bose.com
 usvaplotlystg.bose.com
@@ -1486,6 +1459,4 @@ www.windchill11.bose.com
 www.windchillupgrade.bose.com
 www.wms.bose.com
 www.worldwide.bose.com
-www3.bose.com
-www4.bose.com
 wwwneo.bose.com
