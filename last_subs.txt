@@ -1,4 +1,3 @@
-0www.bose.com
 321.bose.com
 360-viewer-enhanced.bose.com
 360-viewer.bose.com
@@ -16,7 +15,6 @@ adobeprod.bose.com
 americas.bose.com
 analytics.aad.prod.b2c.aws.bose.com
 analytics.bose.com
-anrheadset.bose.com
 aphkplmrepvlt1.bose.com
 aphkplmrepvlt2.bose.com
 aphkplmrepvlt2016.bose.com
@@ -198,11 +196,7 @@ communitytest.bose.com
 compancewww.bose.com
 complacingww.bose.com
 complagewww.bose.com
-complianceww.bose.com
 compliancewww.bose.com
-compliancewwwww.bose.com
-compliancewwwwww.bose.com
-complitionwww.bose.com
 confluence-gd.bose.com
 confluence.bose.com
 confluence.cloud.bose.com
@@ -1192,7 +1186,6 @@ w4cprd1.bose.com
 w4cqat.bose.com
 wardrobe.bose.com
 wavecd.bose.com
-wavepc.bose.com
 wavepctest.bose.com
 waveradio.bose.com
 wc11q1.bose.com
@@ -1231,7 +1224,6 @@ wildcard.gd.bose.com
 windchill.bose.com
 windchill11.bose.com
 windchillupgrade.bose.com
-wms.bose.com
 wordwide.bose.com
 workshop.bose.com
 worldwide.bose.com
@@ -1289,7 +1281,6 @@ www.bi.bose.com
 www.bmail.bose.com
 www.bodev.bose.com
 www.bose.com
-www.bose3d.bose.com
 www.bosecorp-drdweb.bose.com
 www.build.bose.com
 www.cc-rds.bose.com
@@ -1375,7 +1366,6 @@ www.reviewboard.bose.com
 www.s.bose.com
 www.sbc01.bose.com
 www.showroom.bose.com
-www.sounddock.bose.com
 www.soundsanctuary.bose.com
 www.sso1.bose.com
 www.staging-b2c-support.bose.com
@@ -1485,8 +1475,6 @@ www.vadnlbp.bose.com
 www.w4cdev.bose.com
 www.w4cprd.bose.com
 www.w4cqat.bose.com
-www.wavepc.bose.com
-www.waveradio.bose.com
 www.wcawsmig.bose.com
 www.wcq11.bose.com
 www.wcq12.bose.com
