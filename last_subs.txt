@@ -806,6 +806,7 @@ streamingqa.fortis.bose.com
 streamingqaoauth.bose.com
 streamingqaoauth.fortis.bose.com
 streamingstg.bose.com
+streamingstg.fortis.bose.com
 streamingstgoauth.bose.com
 streamingstgoauth.fortis.bose.com
 streamlinedprosngqaoauth.fortis.bose.com
