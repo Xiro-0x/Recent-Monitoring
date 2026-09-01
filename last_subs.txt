@@ -572,7 +572,6 @@ order.confirmations.bose.com
 origin-products.bose.com
 origin-streaming.bose.com
 origin-worldwide.bose.com
-origin-www.bose.com
 owners.bose.com
 p30.bose.com
 pages.em.bose.com
@@ -860,7 +859,6 @@ tmdm.bose.com
 tmdmcrt.bose.com
 tools.bose.com
 track.b2c.aws.bose.com
-triport.bose.com
 trusted-prod02-nebula.gd.bose.com
 uat.bosexx.sf.aws.bose.com
 ucphone-proxy.bose.com
