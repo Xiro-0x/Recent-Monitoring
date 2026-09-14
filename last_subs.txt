@@ -13,8 +13,10 @@
 10844.partner.viator.com
 10864.partner.viator.com
 10947.m.viator.com
+11.partner.viator.com
 11076.partner.viator.com
 11085.partner.viator.com
+11172.partner.viator.com
 11219.partner.viator.com
 11263.partner.viator.com
 11360.m.viator.com
@@ -30,6 +32,7 @@
 11877.partner.viator.com
 11908.partner.viator.com
 12075.partner.viator.com
+12145.partner.viator.com
 12276.partner.viator.com
 12343.partner.viator.com
 12361.m.viator.com
@@ -43,7 +46,6 @@
 13016.partner.viator.com
 13085.partner.viator.com
 13358.m.viator.com
-13461.partner.viator.com
 13466.partner.viator.com
 13603.partner.viator.com
 13618.m.viator.com
@@ -53,11 +55,12 @@
 13972.partner.viator.com
 14115.partner.viator.com
 14368.m.viator.com
+14461.partner.viator.com
 14465.m.viator.com
+14465.partner.viator.com
 14512.partner.viator.com
 14553.partner.viator.com
 14610.partner.viator.com
-14638.m.viator.com
 14667.m.viator.com
 14755.m.viator.com
 14755.partner.viator.com
@@ -101,7 +104,7 @@
 17075.partner.viator.com
 17114.partner.viator.com
 17174.m.viator.com
-17432.partner.viator.com
+17203.partner.viator.com
 17433.partner.viator.com
 17434.partner.viator.com
 1744.partner.viator.com
@@ -131,7 +134,6 @@
 19140.partner.viator.com
 19148.partner.viator.com
 19203.partner.viator.com
-19272.m.viator.com
 19296.partner.viator.com
 19385.partner.viator.com
 19442.partner.viator.com
@@ -147,13 +149,13 @@
 20541.partner.viator.com
 20570.partner.viator.com
 20587.m.viator.com
+20624.partner.viator.com
 20649.partner.viator.com
 2076.m.viator.com
 2077.m.viator.com
 2079.m.viator.com
 2080.m.viator.com
 2081.m.viator.com
-20843.partner.viator.com
 20844.partner.viator.com
 20845.partner.viator.com
 20846.partner.viator.com
@@ -163,6 +165,7 @@
 2091.m.viator.com
 20910.partner.viator.com
 2092.m.viator.com
+2092.partner.viator.com
 2094.partner.viator.com
 20956.m.viator.com
 20958.partner.viator.com
@@ -170,6 +173,7 @@
 21005.partner.viator.com
 21018.partner.viator.com
 21041.partner.viator.com
+2148.partner.viator.com
 21827.partner.viator.com
 21863.partner.viator.com
 2192.m.viator.com
@@ -186,9 +190,12 @@
 22459.partner.viator.com
 22535.partner.viator.com
 22559.partner.viator.com
+22663.m.viator.com
+22663.partner.viator.com
 22777.partner.viator.com
 22808.partner.viator.com
 22881.partner.viator.com
+22923.partner.viator.com
 22947.m.viator.com
 22947.partner.viator.com
 23067.m.viator.com
@@ -212,6 +219,7 @@
 24103.partner.viator.com
 24169.partner.viator.com
 24187.partner.viator.com
+24508.partner.viator.com
 24658.m.viator.com
 24671.partner.viator.com
 24672.partner.viator.com
@@ -224,7 +232,6 @@
 25338.m.viator.com
 25375.partner.viator.com
 25387.partner.viator.com
-25422.m.viator.com
 255-239.kiwi.partner.viator.com
 256.m.viator.com
 25602.partner.viator.com
@@ -240,16 +247,19 @@
 2606.partner.viator.com
 2985.partner.viator.com
 3075.partner.viator.com
+3404.partner.viator.com
+3405.partner.viator.com
+3407.partner.viator.com
 3481.partner.viator.com
 3511838286pk10a1594b1452525i3.kiwi.partner.viator.com
 3718.partner.viator.com
+375.partner.viator.com
 3994.partner.viator.com
 40967601.viator.com
 4226.partner.viator.com
 4250.partner.viator.com
 4342.partner.viator.com
 4371.partner.viator.com
-442.partner.viator.com
 4444.partner.viator.com
 466.partner.viator.com
 4785.partner.viator.com
@@ -260,6 +270,7 @@
 6117.partner.viator.com
 61574.partner.viator.com
 62181.partner.viator.com
+62182.partner.viator.com
 62256.partner.viator.com
 62309.partner.viator.com
 62336.partner.viator.com
@@ -268,6 +279,7 @@
 62352.m.viator.com
 62360.partner.viator.com
 6456.partner.viator.com
+66451.partner.viator.com
 66496.partner.viator.com
 66592.partner.viator.com
 66660.partner.viator.com
@@ -280,6 +292,7 @@
 67050.partner.viator.com
 67211.partner.viator.com
 67223.m.viator.com
+67258.partner.viator.com
 67263.partner.viator.com
 67340.partner.viator.com
 67364.partner.viator.com
@@ -300,13 +313,17 @@
 68793.partner.viator.com
 68802.partner.viator.com
 68812.partner.viator.com
+68849.partner.viator.com
 69054.partner.viator.com
 69060.partner.viator.com
+69075.partner.viator.com
 69186.partner.viator.com
 69496.partner.viator.com
 69714.partner.viator.com
+69722.partner.viator.com
 69984.partner.viator.com
 70038.partner.viator.com
+70280.m.viator.com
 70280.partner.viator.com
 70300.partner.viator.com
 70318.partner.viator.com
@@ -336,13 +353,17 @@
 77663.partner.viator.com
 7781.partner.viator.com
 7867.partner.viator.com
+791.partner.viator.com
 8008.partner.viator.com
 8117.partner.viator.com
+8498.partner.viator.com
 8602.m.viator.com
 866.partner.viator.com
 8697.partner.viator.com
 8743.partner.viator.com
 8763.partner.viator.com
+887.m.viator.com
+887.partner.viator.com
 8946.partner.viator.com
 8994.partner.viator.com
 9162.partner.viator.com
@@ -409,7 +430,6 @@ b2click.viator.com
 b3.viator.com
 b4.viator.com
 barcelona-tourist-guide.m.viator.com
-barcelonayellow.partner.viator.com
 baryon.viator.com
 bb.viator.com
 beta.app.viator.com
@@ -529,7 +549,6 @@ finnair-tours-ja.viator.com
 finnair-tours-no.viator.com
 finnair-tours-sv.viator.com
 five9.viator.com
-flyingcarpet.partner.viator.com
 fornax.int.vkp.viator.com
 fornax.rc.vkp.viator.com
 fr.live.rc.viator.com
@@ -634,7 +653,6 @@ my.fbauth.viator.com
 nashvillecom.viator.com
 netflix.kiwi.partner.viator.com
 newsupplier.viator.com
-newyork.partner.viator.com
 newyorkcity-de.m.viator.com
 ninjas.ep.viator.com
 ninjas.viator.com
@@ -772,7 +790,6 @@ t1.viator.com
 ta-help-preview.prod.vkp.viator.com
 ta-help.prod.vkp.viator.com
 ta-help.viator.com
-ta.viator.com
 tagman.viator.com
 tapm.viator.com
 tapt.viator.com
@@ -790,7 +807,6 @@ tools.viatorinc.com
 top.kiwi.partner.viator.com
 topoztours.partner.viator.com
 tourguides.viator.com
-tours-discovertuscany.partner.viator.com
 tours-dubai.partner.viator.com
 tpg.viator.com
 travel-agent.viator.com
@@ -805,7 +821,6 @@ travelling-pt.m.viator.com
 travelocity-help.partner.viator.com
 travelocity.partner.viator.com
 travelocity.viator.com
-tripbeat.partner.viator.com
 triposo.m.viator.com
 uk.live.rc.viator.com
 uk.live.sandbox.viator.com
@@ -874,7 +889,6 @@ www.viator.com
 www.viatorapi.viator.com
 www.vrs.viator.com
 www.wyndham.viator.com
-www3.viator.com
 wyndham.viator.com
 zelda.ep.viator.com
 zelda.viator.com
