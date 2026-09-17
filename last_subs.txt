@@ -19,6 +19,7 @@ drpc.mainnet.arc.io
 drpc.testnet.arc.io
 eaas.arc.io
 explorer.arc.io
+explorer.testnet.arc.io
 external.arc.io
 fslink.arc.io
 gateway.arc.io
