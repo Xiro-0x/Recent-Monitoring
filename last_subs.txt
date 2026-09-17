@@ -1,6 +1,7 @@
 _dmarc.arc.io
 account.arc.io
 admin.arc.io
+agentvm.arc.io
 analytics.arc.io
 arc.io
 assets.arc.io
@@ -31,7 +32,9 @@ internal.arc.io
 mainnet.arc.io
 ns3.arc.io
 origin-staging.arc.io
+origin.arc.io
 overmind.arc.io
+portal-staging.arc.io
 portal.arc.io
 preview.origin-staging.arc.io
 preview.origin.arc.io
@@ -63,6 +66,7 @@ storage2.arc.io
 storage3.arc.io
 storage4.arc.io
 storage5.arc.io
+studio.arc.io
 tcdn.arc.io
 test-one.arc.io
 test-two.arc.io
