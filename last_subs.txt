@@ -7597,7 +7597,6 @@ agoda-flights.priceline.com
 airlines.priceline.com
 ame1-bastion-901.corp.priceline.com
 analysis.corp.priceline.com
-api-gnae1-poc.priceline.com
 api-gnae1-preprod.priceline.com
 api-gnae1-prod.priceline.com
 api-gnae1-qa.priceline.com
@@ -7765,7 +7764,6 @@ jump.priceline.com
 kayak.priceline.com
 kbounces.priceline.com
 li.priceline.com
-links.deals.priceline.com
 links.priceline.com
 localdeals.priceline.com
 localdealsemail.priceline.com
@@ -7928,8 +7926,6 @@ tableauanalysis.priceline.com
 tag-mgmt-qaa.priceline.com
 tickets.a1.qa.priceline.com
 tickets.priceline.com
-tools-qaa.corp.priceline.com
-tools.corp.priceline.com
 travel.priceline.com
 travela.a1.qa.priceline.com
 travela.c1.qa.priceline.com
@@ -7948,7 +7944,6 @@ url5932.travel.priceline.com
 va.priceline.com
 vacation-packages.priceline.com
 view.emails.priceline.com
-weatherstatus.priceline.com
 webhouse.priceline.com
 weblync.priceline.com
 wg.trvl.priceline.com
