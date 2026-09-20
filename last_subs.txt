@@ -7908,7 +7908,6 @@ s2pclncdn.qab.priceline.com
 s2pclncdn.qac.priceline.com
 sales-ccp.priceline.com
 sandbox.priceline.com
-sap.priceline.com
 sb.priceline.com
 sdk.pps.priceline.com
 secure.priceline.com
