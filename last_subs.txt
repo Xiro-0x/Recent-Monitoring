@@ -2340,6 +2340,7 @@ pcln-xml-test.booking.com
 peakseason.booking.com
 pega-dev.booking.com
 pega.booking.com
+pega.cs.booking.com
 pega.dev.booking.com
 pega.gw.booking.com
 pega.sandbox.booking.com
@@ -3208,6 +3209,7 @@ tsteleopti.voice.booking.com
 tyk-api-gateway-poc.staging.fareharbor.com
 tyocpass-prod01.booking.com
 u.booking.com
+uad.booking.com
 uat.connectivity.booking.com
 uat.partner.booking.com
 uat.partnerships.booking.com
