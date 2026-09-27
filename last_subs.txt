@@ -15,6 +15,8 @@
 2.teleport.fareharbor.engineering
 200947.cars.booking.com
 200947.rentalcars.com
+200947.sg.rentalcars.com
+227.teleport.fareharbor.engineering
 2edreams.rentalcars.com
 363902.booking.com
 3edreams.rentalcars.com
@@ -32,7 +34,9 @@
 973411.booking.com
 991921.booking.com
 _dmarc.booking.com
+_dmarc.fareharbor.engineering
 _dmarc.mx6.booking.com
+_dmarc.rentalcars.com
 _mta-sts.mx6.booking.com
 a.cs.booking.com
 a1.booking.com
@@ -94,6 +98,7 @@ admin.business.booking.com
 admin.c.booking.com
 admin.origin.booking.com
 admins.crisis.booking.com
+advantage.rentalcars.com
 aec1-bk-ucsbcvt-04.voice.booking.com
 aec1-bk-ucsbcvt-05.voice.booking.com
 aegis.booking.com
@@ -121,6 +126,7 @@ ai-tools.staging.fareharbor.engineering
 airtransat.rentalcars.com
 airwatch.booking.com
 aiv.booking.com
+alamo.rentalcars.com
 alertmon.support.booking.com
 alexandria.fareharbor.com
 ali-cnpop-prometheus.prod.booking.com
@@ -392,6 +398,7 @@ authentication-dqs.portal.airline.booking.com
 authentication.portal.airline.booking.com
 authorityportal.booking.com
 authorityportaluat.booking.com
+auto-europe.rentalcars.com
 autocomplete-staging.booking.com
 autocomplete.booking.com
 autodiscover.booking.com
@@ -456,6 +463,7 @@ bhiinreferrals.booking.com
 bhiroreferrals.booking.com
 bhmisp.booking.com
 bhy33css.preview.suite.booking.com
+bi-demo.rds.fareharbor.engineering
 bk-eu-west4.prod.booking.com
 bkhs.booking.com
 bksweb-external-w.booking.com
@@ -623,6 +631,7 @@ click.email.connectivity.booking.com
 click.email.cruises.booking.com
 click.email.partnerships.booking.com
 click.et.booking.com
+click.flyscoot.rentalcars.com
 click.properties.booking.com
 click.sd.booking.com
 click.sg.rentalcars.com
@@ -646,6 +655,7 @@ cockpit.booking.com
 codi-dev.booking.com
 codi-test.booking.com
 codi.booking.com
+com.teleport.fareharbor.engineering
 communicationzone.booking.com
 community.booking.com
 community.stage.booking.com
@@ -912,6 +922,7 @@ em8043.jobalerts.booking.com
 em9892.careeralerts.booking.com
 email.2edreams.rentalcars.com
 email.3edreams.rentalcars.com
+email.asiana.rentalcars.com
 email.asiana1.rentalcars.com
 email.booking.com
 email.bravofly.rentalcars.com
@@ -922,9 +933,11 @@ email.edreams.rentalcars.com
 email.gh-mail.booking.com
 email.gh-mail.gh-sandbox.booking.com
 email.govoyage.rentalcars.com
+email.govoyages.rentalcars.com
 email.jet2carhire.rentalcars.com
 email.opodo.rentalcars.com
 email.partnerships.booking.com
+email.rentalcars.com
 email.sg.rentalcars.com
 email.volagratis.rentalcars.com
 emailarchive.booking.com
@@ -934,6 +947,7 @@ emaildlp.booking.com
 emaildlp.security.booking.com
 emailp2g.security.booking.com
 emailsecurity.booking.com
+emailtesting.rentalcars.com
 emeasites.fareharbor.com
 emergence.fareharbor.com
 emk-events.bk-eu-west1-a.dlb.booking.com
@@ -951,6 +965,7 @@ enterprise.rentalcars.com
 enterpriseenrollment.booking.com
 enterpriseenrollment.rentalcars.com
 enterpriseregistration.booking.com
+enterpriseregistration.rentalcars.com
 envoy-api-gateway-poc.staging.fareharbor.com
 epp-aws.booking.com
 epp.booking.com
@@ -1111,6 +1126,7 @@ gcs-connectors.booking.com
 gdpr-data-portability.dev.cloud.booking.com
 gdpr.support.booking.com
 genius.booking.com
+geostar.rentalcars.com
 ghostroom.support.booking.com
 gi-ams4.booking.com
 gi-lhr4.booking.com
@@ -1211,6 +1227,7 @@ guestreviewawards.booking.com
 guestwifi.booking.com
 guidamutuo.netwww.booking.com
 guides.booking.com
+gulfair.rentalcars.com
 gw.booking.com
 gw.oag.booking.com
 gw.prod.meshgw.booking.com
@@ -1456,6 +1473,7 @@ ka-ppc.booking.com
 ka-ppcapp.booking.com
 kanishk-test.booking.com
 kb.booking.com
+kbank.rentalcars.com
 keep.booking.com
 kibana.dng.rentalcars.com
 kibana.prod.booking.com
@@ -1467,6 +1485,7 @@ knowledgehub.booking.com
 kontrole.booking.com
 koreanair.rentalcars.com
 krab.booking.com
+kralovna.rentalcars.com
 kubecron-run.dr-prod.booking.com
 kubernetes-cluster-directory.dr-prod.booking.com
 kubernetes-cluster-directory.prod.booking.com
@@ -1757,6 +1776,7 @@ mail-rv9.booking.com
 mail.booking.com
 mail.partners.booking.com
 mail.rentalcars.com
+mail.sg.rentalcars.com
 mailinglist.booking.com
 mailinglist.itspublic.booking.com
 mailinglist.support.booking.com
@@ -2081,6 +2101,7 @@ ny1-bksb-02.voice.booking.com
 ny1-bkunty-01.voice.booking.com
 ny1-ucvcsexp-01.voice.booking.com
 o1.booking.com
+o1.email.sg.rentalcars.com
 o1.mail.partners.booking.com
 o1.msg.suite.booking.com
 o1.ptr135.marketplace.rentalcars.com
@@ -2424,6 +2445,7 @@ ppc.dqs.booking.com
 ppc.prod.booking.com
 ppc2.booking.com
 ppeceu.booking.com
+ppp.teleport.fareharbor.engineering
 praetorian-ssh.dng.rentalcars.com
 preprod.packages.booking.com
 presap.bk-eu-central2.dqs.booking.com
@@ -2571,7 +2593,10 @@ report.booking.com
 reports.booking.com
 research-dev.rentalcars.com
 research.rentalcars.com
+reservations.flyscoot.rentalcars.com
 reservations.rentalcars.com
+reservations.sg.rentalcars.com
+reservations.tigerair.rentalcars.com
 reviewawards.booking.com
 rewards.booking.com
 rewards.c.booking.com
