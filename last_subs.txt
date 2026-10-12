@@ -12,6 +12,7 @@
 190.teleport.fareharbor.engineering
 2.teleport.fareharbor.engineering
 200947.rentalcars.com
+227.teleport.fareharbor.engineering
 2edreams.rentalcars.com
 363902.booking.com
 3edreams.rentalcars.com
@@ -25,6 +26,7 @@
 880104.booking.com
 973411.booking.com
 991921.booking.com
+_dmarc.fareharbor.engineering
 _dmarc.mx6.booking.com
 _mta-sts.mx6.booking.com
 a.cs.booking.com
@@ -34,7 +36,6 @@ a3.booking.com
 a5.booking.com
 aaasrv.booking.com
 aagw.booking.com
-aagw.support.booking.com
 about-staging.booking.com
 about.booking.com
 abreu.rentalcars.com
@@ -237,8 +238,6 @@ apidev.itspublic.booking.com
 apidev.support.booking.com
 apigee-hybrid.gw.booking.com
 apigee-mart.gw.booking.com
-apigee-prod.gw.booking.com
-apigee-test.gw.booking.com
 apigee.gw.booking.com
 apigw-test.gw.booking.com
 apigw.c.booking.com
@@ -266,7 +265,6 @@ apqbot.booking.com
 aquariusstjohn.fareharbor.com
 arb.rentalcars.com
 arb12.rentalcars.com
-area51-readonly.fareharbor.com
 area51.fareharbor.com
 artifactory-staging.fareharbor.engineering
 artifactory.booking.com
@@ -296,10 +294,6 @@ ash1-bkunty-01.voice.booking.com
 ash1-cpass-01.booking.com
 ash1-lbvcsexp-01.voicedqs.booking.com
 ash1-lbvcsexp-02.voicedqs.booking.com
-ash1-lbwebrtcme-01.voicedqs.booking.com
-ash1-lbwebrtcme-02.voicedqs.booking.com
-ash1-lbwebrtcse-01.voicedqs.booking.com
-ash1-lbwebrtcse-02.voicedqs.booking.com
 ash1-ucfin13-01-ms.voice.booking.com
 ash1-ucfin13-01.voice.booking.com
 ash1-ucfin18-01-ms.voice.booking.com
@@ -416,6 +410,7 @@ bhfs.itspublic.booking.com
 bhiinreferrals.booking.com
 bhmisp.booking.com
 bhy33css.preview.suite.booking.com
+bi-demo.rds.fareharbor.engineering
 bk-eu-west4.prod.booking.com
 bkhs.booking.com
 bksweb-external-w.booking.com
@@ -579,6 +574,7 @@ cockpit.booking.com
 codi-dev.booking.com
 codi-test.booking.com
 codi.booking.com
+com.teleport.fareharbor.engineering
 communicationzone.booking.com
 community.booking.com
 community.stage.booking.com
@@ -606,7 +602,6 @@ containers1.fab4.dqs.booking.com
 containers1.lhr4.prod.booking.com
 controlroom.dng.rentalcars.com
 controlrooms.booking.com
-coredns.fareharbor.com
 corpauth.booking.com
 corpsso.booking.com
 counters.booking.com
@@ -659,14 +654,7 @@ debug.area51.fareharbor.com
 debug.bocachica.fareharbor.com
 debug.bonete.fareharbor.com
 debug.cannon.fareharbor.com
-debug.jericoacoara.fareharbor.com
-debug.montara.fareharbor.com
-debug.myrtle.fareharbor.com
-debug.oceanbeach.fareharbor.com
-debug.omaha.fareharbor.com
 debug.staging.fareharbor.com
-debug.wailupes.fareharbor.com
-debug.waimea.fareharbor.com
 demand-api-via-envoy.booking.com
 demand.developers.booking.com
 demandapi-mcp.booking.com
@@ -772,8 +760,6 @@ dtcc-pgtcompanybv.sap.bk-eu-west7.prod.booking.com
 dtcc-traveljigsawltd.sap.bk-eu-west7.prod.booking.com
 dtrefinery-itdr.cloud.booking.com
 dwfdev.sap.booking.com
-dwftest.sap.booking.com
-dxi.booking.com
 dynamic-content.booking.com
 e.rentalcars.com
 ece.support.booking.com
@@ -902,7 +888,6 @@ fhdn.fareharbor.com
 fhs.fareharbor.engineering
 files.booking.com
 files.c.booking.com
-finance-dev.sap.booking.com
 finance-prod.sap.booking.com
 finance-sap.booking.com
 finance-test.sap.booking.com
@@ -1222,7 +1207,6 @@ jea.security.booking.com
 jea.support.booking.com
 jenkins.booking.com
 jericoacoara.auth.fareharbor.com
-jericoacoara.fareharbor.com
 jfrog.booking.com
 jira-archive.booking.com
 jira.booking.com
@@ -1237,7 +1221,6 @@ join-lhr4.booking.com
 join.booking.com
 join.c.booking.com
 jrckjj.booking.com
-jtest-api.booking.com
 jtest.booking.com
 jtest.itspublic.booking.com
 jupyter-a.booking.com
@@ -1691,7 +1674,6 @@ metrics-app.fareharbor.engineering
 metrics.business.booking.com
 mgp.booking.com
 micollab.rentalcars.com
-migrated-coredns.fareharbor.com
 mir-primary.mir-201.lhr4.prod.booking.com
 misp.booking.com
 mitel-cars-live-chat-prod.rentalcars.com
@@ -1715,7 +1697,6 @@ mock-idp.identity.booking.com
 mokum-client-events.booking.com
 monitor.booking.com
 monitor.partner.booking.com
-montara.fareharbor.com
 movableink.booking.com
 mrdeploy.itspublic.booking.com
 mrdeploy.support.booking.com
@@ -1794,7 +1775,6 @@ nettools-1002.ams4.corp.booking.com
 nettools-2001.lhr4.corp.booking.com
 nettools-2002.lhr4.corp.booking.com
 network.booking.com
-new-partner-staging-be.fareharbor.com
 new-partner-staging.fareharbor.com
 new-tableau.fareharbor.engineering
 news.booking.com
@@ -1825,7 +1805,6 @@ ny1-bkfin2-01.voice.itspublic.booking.com
 ny1-bksb-01.voice.booking.com
 ny1-bksb-02.voice.booking.com
 ny1-bkunty-01.voice.booking.com
-ny1-ucvcsexp-01.voice.booking.com
 o1.booking.com
 o1.mail.partners.booking.com
 o1.msg.suite.booking.com
@@ -1889,12 +1868,8 @@ o9.email.sg.rentalcars.com
 o9.sg.booking.com
 oag.booking.com
 oagw-admin.booking.com
-oagw-admin.support.booking.com
-oagw-adminui.booking.com
 oagw-adminui.support.booking.com
 oagw.booking.com
-oagw.support.booking.com
-oceanbeach.fareharbor.com
 offboarding.booking.com
 offers.rentalcars.com
 office.booking.com
@@ -1909,7 +1884,6 @@ oktaiwa-lhr4.support.booking.com
 oktaiwa.support.booking.com
 oktapreview.booking.com
 oktatest.booking.com
-omaha.fareharbor.com
 omd.dng.rentalcars.com
 ondemandtaxi-support.booking.com
 oneview.dng.rentalcars.com
@@ -1961,8 +1935,6 @@ pages.fareharbor.com
 palantir.booking.com
 panic.booking.com
 panicbutton.booking.com
-pankaj-test1.gw.booking.com
-pankaj-test2.gw.booking.com
 parking.rentalcars.com
 partner-be.fareharbor.com
 partner-courses.booking.com
@@ -1974,7 +1946,6 @@ partner-demo-mcp.fareharbor.com
 partner-demo.fareharbor.com
 partner-extranet-dev.rentalcars.com
 partner-extranet.rentalcars.com
-partner-infra-be.fareharbor.com
 partner-infra.fareharbor.com
 partner-mcp.fareharbor.com
 partner-services-extranet-languages.booking.com
@@ -2117,6 +2088,7 @@ ppc.dqs.booking.com
 ppc.prod.booking.com
 ppc2.booking.com
 ppeceu.booking.com
+ppp.teleport.fareharbor.engineering
 praetorian-ssh.dng.rentalcars.com
 preprod.packages.booking.com
 presap.bk-eu-central2.dqs.booking.com
@@ -2218,7 +2190,6 @@ qaa.packages.booking.com
 qsc-av-1030-1031.denver.fareharbor.com
 qygcq.booking.com
 rakuten.rentalcars.com
-ramalan.booking.com
 rastreator.rentalcars.com
 rateintelligence.booking.com
 ratemanager-admin.booking.com
@@ -2306,10 +2277,8 @@ sap.booking.com
 sapbwdev-hdb.sap.booking.com
 sapbwprod-cs.sap.booking.com
 sapbwtest-hdb.sap.booking.com
-sapdev-as1.sap.booking.com
 sapftp-ams4.booking.com
 sapftp-lhr4.booking.com
-saphana-220.lhr4.sap.booking.com
 saphana-252.lhr4.sap.booking.com
 saphanasso.booking.com
 sapk-devpi.ams4.sap.booking.com
@@ -2561,7 +2530,6 @@ static.production-readonly.fareharbor.com
 static.wailupes.fareharbor.com
 static.waimea.fareharbor.com
 status.demand-api.booking.com
-status.fareharbor.com
 status.itspublic.booking.com
 status.support.booking.com
 stopsell.secure.rentalcars.com
@@ -2605,7 +2573,6 @@ support.appstore.booking.com
 support.booking.com
 support.bookingbutton.booking.com
 support.connect.booking.com
-support.fareharbor.com
 support.guestmanager.booking.com
 support.marketplace.booking.com
 support.provider.booking.com
@@ -2792,7 +2759,6 @@ uob.rentalcars.com
 updates-xml-h.booking.com
 updates-xml.booking.com
 updates-xml.c.booking.com
-upgrade.fareharbor.com
 url8979.reservations.rentalcars.com
 us.partnerships.booking.com
 us.vc.booking.com
@@ -2814,8 +2780,6 @@ vbase.voice.booking.com
 vbxewe.booking.com
 vc.booking.com
 vcenter.voicedqs.booking.com
-vcs-edge-1.voice.booking.com
-vcs-edge-2.voice.booking.com
 vcsexp.voice.booking.com
 vcsexp.voicedqs.booking.com
 vcsexp2.voice.booking.com
@@ -2878,8 +2842,6 @@ w7.booking.com
 w8.booking.com
 wac01.rentalcars.com
 wac02.rentalcars.com
-wailupes.fareharbor.com
-waimea.fareharbor.com
 wallboard-grafana.booking.com
 wallet-backoffice-cell.fintech.dev.booking.com
 wc1.booking.com
@@ -2899,7 +2861,6 @@ webmail.booking.com
 webrtc-ams4.voice.booking.com
 webrtc-ams4.voicedqs.booking.com
 webrtc-ash1.voice.booking.com
-webrtc-ash1.voicedqs.booking.com
 webrtc-hgk1.voice.booking.com
 webrtc-las3.voice.booking.com
 webrtc-lhr4.voice.booking.com
@@ -2971,11 +2932,8 @@ www-sni.d.booking.com
 www-staging.booking.com
 www-villas.c.booking.com
 www.airwatch.booking.com
-www.alice.booking.com
 www.aloha.fareharbor.com
-www.awmdm.booking.com
 www.bcm-first-cert.booking.com
-www.bob.booking.com
 www.booking.com
 www.brand.booking.com
 www.business.booking.com
@@ -2984,21 +2942,15 @@ www.cares.booking.com
 www.click.booking.com
 www.communicationzone.booking.com
 www.dev.fs.fareharbor.com
-www.euvcsexp.voice.booking.com
 www.events.partners.booking.com
 www.fareharbor.com
 www.fs.fareharbor.com
 www.guestreviewawards.booking.com
-www.help.business.booking.com
 www.iphone-xml.booking.com
 www.join.booking.com
-www.lhr4-cpass-03.booking.com
 www.list.booking.com
-www.meeting.booking.com
 www.metrics.business.booking.com
-www.okta.fareharbor.com
 www.partner-courses.booking.com
-www.qsc-av-1030-1031.denver.fareharbor.com
 www.refer.booking.com
 www.rentalcars.com
 www.secure-admin.booking.com
@@ -3010,7 +2962,6 @@ www.suitehelp.booking.com
 www.surveys.booking.com
 www.sustainability.booking.com
 www.teleport.fareharbor.engineering
-www.usvcsexp.voice.booking.com
 www.vpn.booking.com
 www10.booking.com
 www10.c.booking.com
