@@ -97,6 +97,7 @@ amazon.booking.com
 amazon.itspublic.booking.com
 amoma.rentalcars.com
 ams.merchandise.booking.com
+ams20-bk-eacs-qa-ser01.physicalsecurity.ams20.corp.booking.com
 ams20-bk-eacs-ser01-01.physicalsecurity.ams20.corp.booking.com
 ams20-bluegps.booking.com
 ams20-bms.booking.com
@@ -526,6 +527,7 @@ chainssupport.booking.com
 chat-test2.rentalcars.com
 chat.booking.com
 chat.c.booking.com
+chat.cars-dev.booking.com
 chat.rentalcars.com
 chat2book-botkit.booking.com
 chat2book.booking.com
@@ -547,6 +549,7 @@ cipi-scraping-task-schedule.booking.com
 citigroup-prodsign.dqs.booking.com
 citigroup-rpaprod.dqs.booking.com
 citigroup-test.dqs.booking.com
+citigroup-testsign.dqs.booking.com
 citigroup.prod.booking.com
 citybook.booking.com
 click.booking.com
@@ -1152,6 +1155,7 @@ imap-l4.booking.com
 imap.booking.com
 import-service.anycast.prod.booking.com
 in1.booking.com
+indexer-gg.support.booking.com
 indicative-pricing.rentalcars.com
 info.suite.booking.com
 insights.booking.com
