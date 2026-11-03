@@ -7,6 +7,7 @@ bounce.bugcrowd.com
 bugcrowd.com
 certs.bugcrowd.com
 cf-ssl42649-protected-blog.bugcrowd.com
+clerk.rl.bugcrowd.com
 collateral.bugcrowd.com
 community.bugcrowd.com
 concourse.bugcrowd.com
