@@ -52,6 +52,7 @@ proxilate.a.bugcrowd.com
 proxilate.bugcrowd.com
 rainbow-bridge.bugcrowd.com
 researcherdocs.bugcrowd.com
+rl.bugcrowd.com
 sandbox-crowdcontrol.a.bugcrowd.com
 security-awareness.bugcrowd.com
 stargate.a.bugcrowd.com
