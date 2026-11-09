@@ -40,6 +40,7 @@
 89b9931.assets.preprod-design-system.grammarlyaws.com
 8m96zhjt3x.grammarly.com
 93dd71a.assets.preprod-design-system.grammarlyaws.com
+_dmarc.coda.io
 a11ada7.assets.preprod-design-system.grammarlyaws.com
 a4e072f5e3.preprod-design-system.grammarlyaws.com
 a5b9ac7.assets.preprod-design-system.grammarlyaws.com
@@ -324,7 +325,6 @@ browserless.coda.io
 build-links.coda.io
 build.coda.io
 business-tour.grammarly.com
-bz1276.build.coda.io
 c118b4d.assets.preprod-design-system.grammarlyaws.com
 c3368b3.assets.preprod-design-system.grammarlyaws.com
 c913622.assets.preprod-design-system.grammarlyaws.com
@@ -502,9 +502,7 @@ demo.qa-sandbox.grammarlyaws.com
 denali-bazel-vpce-qa-core.preprod-testing-tools.grammarlyaws.com
 denali-bazel.preprod-testing-tools.grammarlyaws.com
 denali-bazelbb.features.grammarlyaws.com
-denali-blue.denali-fb.grammarly.com
 denali-blue.grammarly.com
-denali-blue.train.pro.denali-fb.grammarly.com
 denali-cli-monitoring.preprod-testing-tools.grammarlyaws.com
 denali-fb.grammarly.com
 denali-local.grammarly.com
@@ -1313,7 +1311,6 @@ preprod-affiliate-public.preprod-affiliate.grammarlyaws.com
 preprod-analytics.grammarlyaws.com
 preprod-auth.grammarlyaws.com
 preprod-billing.grammarlyaws.com
-preprod-billing.preprod-billing.grammarlyaws.com
 preprod-brand-tones.grammarlyaws.com
 preprod-cloud-bridge-gate.preprod-core.grammarlyaws.com
 preprod-contenthub-private.acquisition.grammarlyaws.com
@@ -1439,7 +1436,6 @@ private.private-apisix.k8s-blue.qa-core.grammarlyaws.com
 private.private-apisix.k8s-green.preprod-core.grammarlyaws.com
 private.private-apisix.k8s-green.qa-core.grammarlyaws.com
 private.proofit.grammarly.io
-pro.denali-fb.grammarly.com
 prod-acquisition-web.grammarlyaws.com
 prod-analytics.grammarlyaws.com
 prod-android.grammarlyaws.com
@@ -2025,8 +2021,10 @@ sbu.grammarly.com
 schemas.grammarly.com
 sdb.grammarly.com
 sdm-gateway-1-us-east-1.coda.io
+sdm-gateway-1.adhoc.coda.io
 sdm-gateway-1.coda.io
 sdm-gateway-2-us-east-1.coda.io
+sdm-gateway-2.adhoc.coda.io
 sdm-gateway-2.coda.io
 sdm-gateway-us-east-1.head.coda.io
 sdm-gateway.adhoc.coda.io
@@ -2143,6 +2141,7 @@ statsig.coda.io
 status.coda.io
 status.grammarly.com
 status.superhuman.com
+statuspage-notifications.coda.io
 stereoscope.grammarly.io
 stereoscope.preprod-clang-toolkit.grammarlyaws.com
 stereoscope.prod-clang-toolkit.grammarlyaws.com
@@ -2200,7 +2199,6 @@ tr.grammarly.com
 traces.grammarly.io
 tracking-storage.grammarly.com
 tracksp.grammarly.com
-train.pro.denali-fb.grammarly.com
 trainspotter.platform.grammarlyaws.com
 trainspotter.qa-platform.grammarlyaws.com
 travisci.common.grammarlyaws.com
@@ -2383,6 +2381,7 @@ www.blog.grammarly.com
 www.blog.superhuman.com
 www.coda.io
 www.dev.grammarly.com
+www.dev.grammarly.io
 www.dev.v.grammarly.com
 www.grammarly.com
 www.narnia.it.grammarlyaws.com
