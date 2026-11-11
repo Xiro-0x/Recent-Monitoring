@@ -83,6 +83,7 @@ admin.auth.superhuman.com
 admin.coda.io
 admin.dev.coda.io
 admin.dev.grammarly.io
+admin.dev.grammarlyaws.com
 admin.head.coda.io
 admin.preprod-proofit.grammarlyaws.com
 admin.proofit.grammarly.io
@@ -203,6 +204,7 @@ api.superhuman.com
 api.teams.grammarly.io
 apigw.prod-platform-plane.grammarlyaws.com
 apigw.research.dplane.grammarly.io
+app.dev.grammarlyaws.com
 app.grammarly.com
 app.superhuman.com
 apple.coda.io
@@ -2386,7 +2388,6 @@ www.blog.grammarly.com
 www.blog.superhuman.com
 www.coda.io
 www.dev.grammarly.com
-www.dev.grammarly.io
 www.dev.v.grammarly.com
 www.grammarly.com
 www.narnia.it.grammarlyaws.com
