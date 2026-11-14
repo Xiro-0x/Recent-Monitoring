@@ -40,7 +40,9 @@
 89b9931.assets.preprod-design-system.grammarlyaws.com
 8m96zhjt3x.grammarly.com
 93dd71a.assets.preprod-design-system.grammarlyaws.com
-_dmarc.superhuman.com
+_dmarc.coda.io
+_dmarc.grammarly.com
+_dmarc.grammarly.io
 a11ada7.assets.preprod-design-system.grammarlyaws.com
 a4e072f5e3.preprod-design-system.grammarlyaws.com
 a5b9ac7.assets.preprod-design-system.grammarlyaws.com
@@ -595,13 +597,14 @@ elastic-data.grammarly.io
 elastic.grammarly.io
 elb-irl-amz.nimbus.bitdefender.netauth.grammarly.com
 em.grammarly.com
+em136.cs.grammarly.com
 email-assets.superhuman.com
+email-cdn.grammarly.com
 email-link.superhuman.com
 email.coda.io
 email.gh-mail.coda.io
 email.grammarly.com
 email.recruiting.grammarly.com
-email.superhuman.com
 emailfeedback.grammarly.com
 embeddings-indexing.adhoc.coda.io
 embeddings-indexing.coda.io
@@ -963,6 +966,7 @@ hidden.fridge.prod-fridge.grammarlyaws.com
 hidden.fridge.qa-fridge.grammarlyaws.com
 hidden.sensei.preprod-sensei.grammarlyaws.com
 hidden.sensei.qa-sensei.grammarlyaws.com
+highspot.grammarly.com
 homie-bot.gwplane.grammarly.io
 hs.superhuman.com
 huayang.adhoc.coda.io
@@ -1063,6 +1067,7 @@ linear.gitlab.grammarly.io
 links.superhuman.com
 localhost.em.grammarly.com
 localhost.security.grammarly.com
+localhost.send.grammarly.com
 log-at.grammarly.io
 log-balto.grammarly.io
 log-csp.grammarly.io
@@ -2028,8 +2033,10 @@ sbu.grammarly.com
 schemas.grammarly.com
 sdb.grammarly.com
 sdm-gateway-1-us-east-1.coda.io
+sdm-gateway-1.adhoc.coda.io
 sdm-gateway-1.coda.io
 sdm-gateway-2-us-east-1.coda.io
+sdm-gateway-2.adhoc.coda.io
 sdm-gateway-2.coda.io
 sdm-gateway-us-east-1.head.coda.io
 sdm-gateway.adhoc.coda.io
@@ -2099,6 +2106,7 @@ sm-scim-ext.qa-redwall.grammarlyaws.com
 smith-api.pplane.grammarly.io
 smith.pplane.grammarly.io
 snapshots.grammarly.io
+snapshots.snapshots.grammarly.io
 snippets.grammarly.com
 snowpipe-proxy.adhoc.coda.io
 snowpipe-proxy.coda.io
@@ -2148,6 +2156,9 @@ statsig.coda.io
 status.coda.io
 status.grammarly.com
 status.superhuman.com
+statuspage-notifications.coda.io
+statuspage-notifications.grammarly.com
+statuspage-notifications.notifications.grammarly.com
 stereoscope.grammarly.io
 stereoscope.preprod-clang-toolkit.grammarlyaws.com
 stereoscope.prod-clang-toolkit.grammarlyaws.com
