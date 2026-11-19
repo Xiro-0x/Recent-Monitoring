@@ -1750,6 +1750,7 @@ qa-data-private-https.acquisition.grammarlyaws.com
 qa-data-private.acquisition.grammarlyaws.com
 qa-data-warehouse.grammarlyaws.com
 qa-data.acquisition.grammarlyaws.com
+qa-deane.qa-prodsec.grammarlyaws.com
 qa-december-demo.qa-platform.grammarlyaws.com
 qa-demo-editor.acquisition.grammarlyaws.com
 qa-demo-golang-ecs.qa-platform.grammarlyaws.com
