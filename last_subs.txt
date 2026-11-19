@@ -709,7 +709,6 @@ feature-security-scanning.preprod-design-system.grammarlyaws.com
 feature-store-grpc.preprod-feature-store.grammarlyaws.com
 feature-store-grpc.prod-feature-store.grammarlyaws.com
 feature-store-grpc.qa-feature-store.grammarlyaws.com
-feature-store.preprod-feature-store.grammarlyaws.com
 feature-store.qa-feature-store.grammarlyaws.com
 features-docker.artifactory6.artifactory.grammarly.io
 features.grammarlyaws.com
