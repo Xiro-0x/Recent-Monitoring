@@ -40,6 +40,7 @@
 89b9931.assets.preprod-design-system.grammarlyaws.com
 8m96zhjt3x.grammarly.com
 93dd71a.assets.preprod-design-system.grammarlyaws.com
+_dmarc.coda.io
 a11ada7.assets.preprod-design-system.grammarlyaws.com
 a4e072f5e3.preprod-design-system.grammarlyaws.com
 a5b9ac7.assets.preprod-design-system.grammarlyaws.com
@@ -83,7 +84,6 @@ admin.auth.superhuman.com
 admin.coda.io
 admin.dev.coda.io
 admin.dev.grammarly.io
-admin.dev.grammarlyaws.com
 admin.head.coda.io
 admin.preprod-proofit.grammarlyaws.com
 admin.proofit.grammarly.io
@@ -204,7 +204,6 @@ api.superhuman.com
 api.teams.grammarly.io
 apigw.prod-platform-plane.grammarlyaws.com
 apigw.research.dplane.grammarly.io
-app.dev.grammarlyaws.com
 app.grammarly.com
 app.superhuman.com
 apple.coda.io
@@ -2031,8 +2030,10 @@ sbu.grammarly.com
 schemas.grammarly.com
 sdb.grammarly.com
 sdm-gateway-1-us-east-1.coda.io
+sdm-gateway-1.adhoc.coda.io
 sdm-gateway-1.coda.io
 sdm-gateway-2-us-east-1.coda.io
+sdm-gateway-2.adhoc.coda.io
 sdm-gateway-2.coda.io
 sdm-gateway-us-east-1.head.coda.io
 sdm-gateway.adhoc.coda.io
@@ -2151,6 +2152,7 @@ statsig.coda.io
 status.coda.io
 status.grammarly.com
 status.superhuman.com
+statuspage-notifications.coda.io
 stereoscope.grammarly.io
 stereoscope.preprod-clang-toolkit.grammarlyaws.com
 stereoscope.prod-clang-toolkit.grammarlyaws.com
@@ -2392,7 +2394,6 @@ www.blog.grammarly.com
 www.blog.superhuman.com
 www.coda.io
 www.dev.grammarly.com
-www.dev.grammarly.io
 www.dev.v.grammarly.com
 www.grammarly.com
 www.narnia.it.grammarlyaws.com
