@@ -40,7 +40,6 @@
 89b9931.assets.preprod-design-system.grammarlyaws.com
 8m96zhjt3x.grammarly.com
 93dd71a.assets.preprod-design-system.grammarlyaws.com
-_dmarc.codahosted.io
 a11ada7.assets.preprod-design-system.grammarlyaws.com
 a4e072f5e3.preprod-design-system.grammarlyaws.com
 a5b9ac7.assets.preprod-design-system.grammarlyaws.com
@@ -2392,6 +2391,7 @@ www.blog.grammarly.com
 www.blog.superhuman.com
 www.coda.io
 www.dev.grammarly.com
+www.dev.grammarly.io
 www.dev.v.grammarly.com
 www.grammarly.com
 www.narnia.it.grammarlyaws.com
