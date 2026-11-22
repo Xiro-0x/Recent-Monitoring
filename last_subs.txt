@@ -40,9 +40,6 @@
 89b9931.assets.preprod-design-system.grammarlyaws.com
 8m96zhjt3x.grammarly.com
 93dd71a.assets.preprod-design-system.grammarlyaws.com
-_dmarc.grammarly.com
-_dmarc.grammarly.io
-_dmarc.superhuman.com
 a11ada7.assets.preprod-design-system.grammarlyaws.com
 a4e072f5e3.preprod-design-system.grammarlyaws.com
 a5b9ac7.assets.preprod-design-system.grammarlyaws.com
@@ -617,15 +614,13 @@ elastic-data.grammarly.io
 elastic.grammarly.io
 elb-irl-amz.nimbus.bitdefender.netauth.grammarly.com
 em.grammarly.com
-em136.cs.grammarly.com
 email-assets.superhuman.com
-email-cdn.grammarly.com
 email-link.superhuman.com
 email.coda.io
 email.gh-mail.coda.io
 email.grammarly.com
+email.link.superhuman.com
 email.recruiting.grammarly.com
-email.superhuman.com
 emailfeedback.grammarly.com
 embeddings-indexing.adhoc.coda.io
 embeddings-indexing.coda.io
@@ -992,7 +987,6 @@ hidden.fridge.prod-fridge.grammarlyaws.com
 hidden.fridge.qa-fridge.grammarlyaws.com
 hidden.sensei.preprod-sensei.grammarlyaws.com
 hidden.sensei.qa-sensei.grammarlyaws.com
-highspot.grammarly.com
 homie-bot.gwplane.grammarly.io
 hs.superhuman.com
 huayang.adhoc.coda.io
@@ -1097,7 +1091,6 @@ linear.gitlab.grammarly.io
 links.superhuman.com
 localhost.em.grammarly.com
 localhost.security.grammarly.com
-localhost.send.grammarly.com
 log-at.grammarly.io
 log-balto.grammarly.io
 log-csp.grammarly.io
@@ -1464,7 +1457,6 @@ preprod-temporal-ui.preprod-billing.grammarlyaws.com
 preprod-testing-tools.grammarlyaws.com
 preprod-text-processing.grammarlyaws.com
 preprod-treatment-int.preprod-experimentation.grammarlyaws.com
-preprod-treatment.preprod-experimentation.grammarlyaws.com
 preprod-uphookhub.preprod-uphookhub.grammarlyaws.com
 preprod-vox.grammarlyaws.com
 preprod-vpc.grammarlyaws.com
@@ -1523,7 +1515,6 @@ prod-data-plane-green.core-prod.grammarlyaws.com
 prod-data-plane-green.prod-data-plane.grammarlyaws.com
 prod-data-plane.core-prod.grammarlyaws.com
 prod-data-plane.grammarlyaws.com
-prod-data-plane.prod-data-plane.grammarlyaws.com
 prod-data-platform.grammarlyaws.com
 prod-data-private-https.acquisition.grammarlyaws.com
 prod-data.acquisition.grammarlyaws.com
@@ -1749,7 +1740,6 @@ qa-analytics.grammarlyaws.com
 qa-android.grammarlyaws.com
 qa-anniversary-swag-store.grammarlyaws.com
 qa-artifactory.artifactory.qa-platform.grammarlyaws.com
-qa-artifactory.grammarlyaws.com
 qa-artifactory.platform.grammarlyaws.com
 qa-artur-demo-33.qa-platform.grammarlyaws.com
 qa-artur-demo-java.qa-platform.grammarlyaws.com
@@ -1940,7 +1930,6 @@ qa-payments-public-api.qa-billing.grammarlyaws.com
 qa-payments-webhooks.qa-billing.grammarlyaws.com
 qa-platform-green.qa-platform.grammarlyaws.com
 qa-platform.grammarlyaws.com
-qa-platform.qa-platform.grammarlyaws.com
 qa-poc-nodejs-api.sandbox.grammarlyaws.com
 qa-poc-nodejs-fargate-api.sandbox.grammarlyaws.com
 qa-privacy.qa-privacy.grammarlyaws.com
@@ -2222,7 +2211,6 @@ sm-scim-ext.qa-redwall.grammarlyaws.com
 smith-api.pplane.grammarly.io
 smith.pplane.grammarly.io
 snapshots.grammarly.io
-snapshots.snapshots.grammarly.io
 snippets.grammarly.com
 snippets.preprod-snippets.grammarlyaws.com
 snippets.qa-snippets.grammarlyaws.com
@@ -2277,8 +2265,6 @@ statsig.coda.io
 status.coda.io
 status.grammarly.com
 status.superhuman.com
-statuspage-notifications.grammarly.com
-statuspage-notifications.notifications.grammarly.com
 stereoscope.grammarly.io
 stereoscope.preprod-clang-toolkit.grammarlyaws.com
 stereoscope.prod-clang-toolkit.grammarlyaws.com
@@ -2295,6 +2281,7 @@ superhuman-docs.femetrics.grammarly.io
 superhuman-drop.pplane.grammarly.io
 superhuman.com
 superhumanhub.femetrics.grammarly.io
+supplements.superhuman.com
 support-automations-k8s.subscription.grammarlyaws.com
 support-automations.subscription.grammarlyaws.com
 support.grammarly.com
@@ -2435,7 +2422,6 @@ vpce-feature-store-grpc.qa-feature-store.grammarlyaws.com
 vpce-pp-treatment.preprod-experimentation.grammarlyaws.com
 vpce-preprod-airflow.preprod-nlp-processing.grammarlyaws.com
 vpce-preprod-apisix.preprod-data-plane.grammarlyaws.com
-vpce-preprod-auth-ext.preprod-auth.grammarlyaws.com
 vpce-preprod-auth.preprod-auth.grammarlyaws.com
 vpce-preprod-common-api.preprod-data-plane.grammarlyaws.com
 vpce-preprod-docproc.preprod-core.grammarlyaws.com
@@ -2444,17 +2430,14 @@ vpce-prod-airflow.nlp-processing.grammarlyaws.com
 vpce-prod-argocd-sparta.prod-red-valley.grammarlyaws.com
 vpce-prod-artifactory7.prod-artifactory.grammarlyaws.com
 vpce-prod-auth.auth-prod.grammarlyaws.com
-vpce-prod-cloud-bridge-gate.core-prod.grammarlyaws.com
 vpce-prod-datacat-auth-regular.nlp-processing.grammarlyaws.com
 vpce-prod-datacat-red.nlp-processing.grammarlyaws.com
 vpce-prod-datacat-regular.nlp-processing.grammarlyaws.com
 vpce-prod-datacat.nlp-processing.grammarlyaws.com
 vpce-prod-docproc.core-prod.grammarlyaws.com
 vpce-prod-gitlab-server.platform.grammarlyaws.com
-vpce-prod-hackerman.core-prod.grammarlyaws.com
 vpce-prod-hackermango-config.prod-hackermango.grammarlyaws.com
 vpce-prod-hmg-releases.prod-hackermango.grammarlyaws.com
-vpce-prod-msync.acquisition.grammarlyaws.com
 vpce-prod-prometheus-vmagent.prod-monitoring.grammarlyaws.com
 vpce-prod-research-apisix.prod-data-plane.grammarlyaws.com
 vpce-prod-sourcegraph.prod-sourcegraph.grammarlyaws.com
@@ -2464,15 +2447,12 @@ vpce-qa-airflow.qa-nlp-processing.grammarlyaws.com
 vpce-qa-apisix.qa-data-plane.grammarlyaws.com
 vpce-qa-artifactory.qa-platform.grammarlyaws.com
 vpce-qa-auth.qa-auth.grammarlyaws.com
-vpce-qa-common-api-wr-ins.qa-core.grammarlyaws.com
 vpce-qa-common-api.qa-data-plane.grammarlyaws.com
-vpce-qa-cortex-ui.qa-platform.grammarlyaws.com
 vpce-qa-datacat-red.qa-nlp-processing.grammarlyaws.com
 vpce-qa-datacat-regular.qa-nlp-processing.grammarlyaws.com
 vpce-qa-datacat.qa-nlp-processing.grammarlyaws.com
 vpce-qa-docproc.qa-core.grammarlyaws.com
 vpce-qa-gitlab.qa-platform.grammarlyaws.com
-vpce-qa-iam-plink-test-alb.qa-platform.grammarlyaws.com
 vpce-qa-qa-apisix.qa-data-plane.grammarlyaws.com
 vpce-qa-token-mediating-backend.qa-auth.grammarlyaws.com
 vpce-qa-tokens.qa-auth.grammarlyaws.com
@@ -2494,6 +2474,7 @@ wcdn.admin.adhoc.coda.io
 wcdn.calc.adhoc.coda.io
 wcdn.docservice.adhoc.coda.io
 wcdn.fetcher.adhoc.coda.io
+we.are.superhuman.com
 weaknessisourpower.dapi.grammarly.com
 web.qa-genius.grammarlyaws.com
 web.superhuman.com
