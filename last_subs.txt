@@ -40,7 +40,6 @@
 89b9931.assets.preprod-design-system.grammarlyaws.com
 8m96zhjt3x.grammarly.com
 93dd71a.assets.preprod-design-system.grammarlyaws.com
-_dmarc.coda.io
 _dmarc.grammarly.com
 a11ada7.assets.preprod-design-system.grammarlyaws.com
 a4e072f5e3.preprod-design-system.grammarlyaws.com
@@ -1006,6 +1005,7 @@ hub.common.grammarlyaws.com
 hva-rh.adhoc.coda.io
 iam-plink-test-alb.qa-platform.grammarlyaws.com
 iam-plink-test-asg.qa-platform.grammarlyaws.com
+id.acme.superhuman.com
 id.grammarly.com
 id.superhuman.com
 identity-admin-preprod.auth-prod.grammarlyaws.com
@@ -2149,10 +2149,8 @@ schema-registry.qa-snippets.grammarlyaws.com
 schemas.grammarly.com
 sdb.grammarly.com
 sdm-gateway-1-us-east-1.coda.io
-sdm-gateway-1.adhoc.coda.io
 sdm-gateway-1.coda.io
 sdm-gateway-2-us-east-1.coda.io
-sdm-gateway-2.adhoc.coda.io
 sdm-gateway-2.coda.io
 sdm-gateway-us-east-1.head.coda.io
 sdm-gateway.adhoc.coda.io
@@ -2279,7 +2277,6 @@ statsig.coda.io
 status.coda.io
 status.grammarly.com
 status.superhuman.com
-statuspage-notifications.coda.io
 statuspage-notifications.grammarly.com
 statuspage-notifications.notifications.grammarly.com
 stereoscope.grammarly.io
@@ -2497,6 +2494,7 @@ wcdn.admin.adhoc.coda.io
 wcdn.calc.adhoc.coda.io
 wcdn.docservice.adhoc.coda.io
 wcdn.fetcher.adhoc.coda.io
+we.are.superhuman.com
 weaknessisourpower.dapi.grammarly.com
 web.qa-genius.grammarlyaws.com
 web.superhuman.com
